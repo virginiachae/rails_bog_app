@@ -2,7 +2,10 @@
 
 ### Times
 First run: 1:08
+
 Second run: 1:05
+
+Third run: 0:53
 
 ### Overview
 
